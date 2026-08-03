@@ -37,7 +37,7 @@ cp dist-site/index.html index.html
 
 ## 🚀 View the Arena
 
-**Live:** [fabudde.github.io/nyxcode-arena](https://fabudde.github.io/nyxcode-arena/)
+**Live:** [arena.nyxcode.io](https://arena.nyxcode.io/)
 
 ## What is NyxCode?
 
